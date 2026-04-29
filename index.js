@@ -17,7 +17,7 @@ function getGreeting(name = "") {
 
 function updateGreeting() {
   const el = document.getElementById("greet");
-  el.textContent = getGreeting("Ray"); // ← put your name here
+  el.textContent = getGreeting(""); // ← put your name here
   el.classList.add('show');
 }
 
