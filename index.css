@@ -3,7 +3,7 @@ body {
     width: 960px;
     min-width: 25%;
     background-image: url("./my\ backgroundjpg.jpg");
-    height: 560px;
+    
     min-height: 50%;
     margin: 0 auto;
     place-items: center;
@@ -194,7 +194,7 @@ a {
     width: 960px;
     min-width: 50%;
     background-image: url("./my\ backgroundjpg.jpg");
-    height: 560px;
+    
     min-height: 50%;
     margin: auto;
     place-items: center;
